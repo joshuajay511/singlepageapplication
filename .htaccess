@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteTule ^([a-zA-Z0-9]+)$ index.html?path=$1
